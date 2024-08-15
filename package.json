@@ -1,0 +1,16 @@
+{
+    "name": "express-visit-counter",
+    "version": "1.0.0",
+    "description": "An Express application that counts user visits and sets cookies.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "An-Khiem Le",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.18.2",
+      "cookie-parser": "^1.4.6"
+    }
+  }
+  
